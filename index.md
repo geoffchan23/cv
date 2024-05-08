@@ -11,12 +11,6 @@ Entrepreneur + Coder
 | <a href="https://www.linkedin.com/in/geoffchan23/">LinkedIn</a>
 </div>
 
-
-## Currently
-
-Director of Engineering @ Code4rena. Founder @ Stack Five.
-
-
 ## Work
 
 `Feb 23' - Current`
