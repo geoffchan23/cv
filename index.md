@@ -45,7 +45,15 @@ __Product Manager, UX & Mobile @ World Vision Canada__
 __Frontend Developer Lead @ World Vision Canada__
 - Lead a talented team of frontend developers at World Vision Canada, driving the adoption of innovative technology solutions and industry standards to revolutionize our digital platforms and enhance user experiences.
 
+## Education
 
+`05' - 10'`
+__McMaster University__
+- Bachelor of Arts, Digital Communication and Media/Multimedia
+
+  `04' - 05'`
+  __Sheridan College__
+  - Art Fundamentals, Fine/Studio Arts, General
 
 <!-- ### Footer
 
