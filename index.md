@@ -3,7 +3,6 @@ layout: cv
 title: Geoff Chan's CV
 ---
 # Geoff Chan
-Entrepreneur + Coder
 
 <div id="webaddress">
 <a href="geoff@stackfive.io">Email</a>
@@ -51,9 +50,9 @@ __Frontend Developer Lead @ World Vision Canada__
 __McMaster University__
 - Bachelor of Arts, Digital Communication and Media/Multimedia
 
-  `04' - 05'`
-  __Sheridan College__
-  - Art Fundamentals, Fine/Studio Arts, General
+`04' - 05'`
+__Sheridan College__
+- Art Fundamentals, Fine/Studio Arts, General
 
 <!-- ### Footer
 
