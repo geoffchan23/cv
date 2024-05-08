@@ -61,6 +61,7 @@ body {
 	line-height: 1.5em;
 	font-family: Menlo,monospace,sans-serif;
 	margin-top: 2em;
+	margin-bottom: 6em;
 	background-color: rgb(28, 28, 28);
 	color: rgb(243 244 246);
 }
@@ -68,6 +69,7 @@ body {
 #content {
 	max-width: 768px;
 	margin: 0 auto;
+	position: relative;
 }
 
 p {
@@ -92,11 +94,8 @@ ul {
 	margin-top: -0.5em;
 }
 
-li ul {
-	position: relative;
-	left: 0;
-	width: 100%;
-	margin-top: 0.25em;
+li {
+	color: #666;
 }
 
 h1,h2,h3,h4 {
@@ -105,22 +104,17 @@ h1,h2,h3,h4 {
 
 h1 {
 	text-align: left;
-	font-size: 3em;
+	font-size: 1.5em;
 	line-height: 1em;
 	position: relative;
 	font-family: Inter Tight,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
-}
-
-h1+p { 
-	/*subtitle*/
-	font-size: 110%;
-	line-height: 2em;
+	margin-bottom: 1em;
 }
 
 h2 {
-	font-size: 2em;
+	font-size: 1.5em;
 	color: #a00;
-	margin-top: 2em;
+	margin-top: 1em;
 	line-height: 3em;
 	position: relative;
 }
@@ -143,8 +137,10 @@ a:hover {
 }
 
 #webaddress {
-	margin-top: 1em;
-	position: relative;
+	/* margin-top: 1em; */
+	position: absolute;
+	right: 0;
+	top: 0;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
