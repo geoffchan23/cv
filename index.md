@@ -38,11 +38,11 @@ __Consultant @ adidas__
 - Lead the implementation of several bespoke B2B applications for adidas, which processed over $800k in sales per year.
 
 `Feb 15' - May 15'`
-Product Manager, UX & Mobile @ World Vision Canada__
+__Product Manager, UX & Mobile @ World Vision Canada__
 - Helped to launch an early mobile app experience for collecting sponsorship data in the field during a 3 month secondment.
 
 `Feb 11' - Aug 16'`
-Frontend Developer Lead @ World Vision Canada__
+__Frontend Developer Lead @ World Vision Canada__
 - Lead a talented team of frontend developers at World Vision Canada, driving the adoption of innovative technology solutions and industry standards to revolutionize our digital platforms and enhance user experiences.
 
 
