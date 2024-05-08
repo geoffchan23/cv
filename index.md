@@ -14,7 +14,7 @@ title: Geoff Chan's CV
 
 `Feb 23' - Current`
 __Director of Engineering @ [Code4rena](https://code4rena.com/)__
-- Led team of 15 software engineers, including an ML Engineer and Data Scientist, and launched market-changing features.
+- Led a team of 15 software engineers, including an ML Engineer and Data Scientist. Launched market-changing products and features for the platform.
 
 `Jul 18' - Current`
 __Founder @ [Stack Five](https://stackfive.io/)__
@@ -26,7 +26,7 @@ __[Viyo.io](https://viyo.io/)__
 
 `Jan 22' - Jan 23'`
 __[ReactLibraries.com](https://reactlibraries.com/)__
-- Launched a site for community-curated React libraries and content. 13k+ impressions per month.
+- Launched a site for community-curated React libraries and content. 13k+ organic impressions per month.
 
 `Sep 17' - Aug 18'`
 __Software Engineer @ Plexxis Software__
@@ -34,7 +34,7 @@ __Software Engineer @ Plexxis Software__
 
 `Aug 16' - Aug 17'`
 __Consultant @ adidas__
-- Lead the implementation of several bespoke B2B applications for adidas, which processed over $800k in sales per year.
+- Led the implementation of several bespoke B2B applications for adidas and Reebok, which processed over $800k in sales per year.
 
 `Feb 15' - May 15'`
 __Product Manager, UX & Mobile @ World Vision Canada__
@@ -42,7 +42,7 @@ __Product Manager, UX & Mobile @ World Vision Canada__
 
 `Feb 11' - Aug 16'`
 __Frontend Developer Lead @ World Vision Canada__
-- Lead a talented team of frontend developers at World Vision Canada, driving the adoption of innovative technology solutions and industry standards to revolutionize our digital platforms and enhance user experiences.
+- Led a talented team of frontend developers. Drove the adoption of innovative technology solutions and industry standards to revolutionize our digital platforms and enhance user experiences.
 
 ## Education
 
