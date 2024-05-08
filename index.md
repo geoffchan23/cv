@@ -3,7 +3,7 @@ layout: cv
 title: Geoff Chan's CV
 ---
 # Geoff Chan
-Entrepreneur + Coder
+<span class="title">Entrepreneur + Coder</span>
 
 <div id="webaddress">
 <a href="geoff@stackfive.io">Email</a>
