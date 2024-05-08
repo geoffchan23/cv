@@ -61,6 +61,8 @@ body {
 	line-height: 1.5em;
 	font-family: Menlo,monospace,sans-serif;
 	margin-top: 2em;
+	background-color: rgb(28, 28, 28);
+	color: rgb(243 244 246);
 }
 
 #content {
@@ -76,11 +78,12 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 60%;
-	/*line-height: 1em;*/
+	font-size: 70%;
 	font-family: Menlo,monospace,sans-serif;
 	color: #aaa;
-	display: block
+	left: 0;
+	transform: translateX(-125%);
+	position: absolute;
 }
 
 ul { 
@@ -115,9 +118,10 @@ h1+p {
 }
 
 h2 {
-	font-size: 1.1em;
+	font-size: 2em;
 	color: #a00;
-	margin-top: 3em;
+	margin-top: 2em;
+	line-height: 3em;
 	position: relative;
 }
 
